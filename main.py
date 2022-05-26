@@ -32,7 +32,7 @@ class YaUploader:
             print("Super")
 
 if __name__ == '__main__':
-    token = 'AQAAAAALx7mUAADLW1OyRUdNCEGWricfRGp-sW4'
+    token = '_____'
     uploader = YaUploader(token)
     result = uploader.upload('my_netology/my_test.txt', 'test11.txt')
 
